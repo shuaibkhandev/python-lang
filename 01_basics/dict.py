@@ -51,8 +51,8 @@ chai_types = {"masala":"Spicy", "ginger":"Zesty", "green":"Mild"};
 # print(sqaured_num)
 # sqaured_num.clear()
 
-dict_keys = ["masala", "ginger", "green"]
-default_value = "Delicious"
+# dict_keys = ["masala", "ginger", "green"]
+# default_value = "Delicious"
 
-new_dict = dict.fromkeys(dict_keys, default_value)
-print(new_dict)
+# new_dict = dict.fromkeys(dict_keys, default_value)
+# print(new_dict)
